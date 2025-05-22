@@ -14,12 +14,12 @@ El objetivo fue practicar con el lenguaje ensamblador en la máquina WinMIPS y a
 
 ## 📁 Archivos
 
-- `bandera.asm`: el código ensamblador que puede ejecutarse en WinMIPS para dibujar la bandera.
+- `argenMips.s`: el código ensamblador que puede ejecutarse en WinMIPS para dibujar la bandera.
 
 ## ▶️ Cómo ejecutarlo
 
 1. Abrí **WinMIPS64** (máquina MIPS educativa de 3 direcciones).
-2. Cargá el archivo `bandera.asm` en el simulador.
+2. Cargá el archivo `argenMips.s` en el simulador.
 3. Ejecutá el programa paso a paso o completo.
 4. Observá cómo se dibuja la bandera argentina en la memoria gráfica.
 

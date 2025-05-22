@@ -34,7 +34,7 @@ El objetivo fue practicar con el lenguaje ensamblador en la máquina WinMIPS y a
 
 ## ✍️ Autor
 
-Desarrollado por [@franndogil](https://github.com/franndogil) como práctica para la materia Organización de Computadoras (UNLP).
+Desarrollado por [@franndogil](https://github.com/franndogil) como práctica para la materia Arquitectura de Computadoras (UNLP).
 
 ---
 

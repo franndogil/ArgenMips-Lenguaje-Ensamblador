@@ -25,8 +25,8 @@ El objetivo fue practicar con el lenguaje ensamblador en la máquina WinMIPS y a
 
 ## 🛠 Requisitos
 
-- [WinMIPS64](https://www.aic-califano.com.ar/winmips64/) instalado en tu sistema.
-- Archivo `bandera.asm`.
+- [WinMIPS64] instalado en tu sistema.
+- Archivo `argenMips.s`.
 
 ## 📸 Vista previa
 
